@@ -20,6 +20,7 @@ public class Faixa {
 
 	public CorFaixa getCor() {
 		return cor;
+		
                 //teste
 	}
 	
