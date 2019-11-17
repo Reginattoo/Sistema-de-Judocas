@@ -15,7 +15,7 @@ import com.jgoodies.forms.layout.CellConstraints;
 import com.jgoodies.forms.layout.FormLayout;
 
 /**
- * @author wansoul
+ * @author 31753477
  */
 public class ProfessorCadastrarPanel extends JPanel {
 	/**
@@ -100,4 +100,5 @@ public class ProfessorCadastrarPanel extends JPanel {
 	private JButton cadastrar;
 	private JButton cancelar;
 	// JFormDesigner - End of variables declaration  //GEN-END:variables
+        //Coment para meter o loko
 }
