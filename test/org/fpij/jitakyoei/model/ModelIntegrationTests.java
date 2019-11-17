@@ -19,7 +19,7 @@ public class ModelIntegrationTests {
 	private static Filiado filiadoAluno;
 	private static Filiado filiadoProf;
 	private static Professor professor;
-	
+	//teste
 	@BeforeClass
 	public static void setUp(){
 		DatabaseManager.setEnviroment(DatabaseManager.TEST);
