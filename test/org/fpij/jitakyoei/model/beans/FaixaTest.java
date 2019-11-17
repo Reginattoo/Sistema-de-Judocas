@@ -29,7 +29,7 @@ public class FaixaTest {
         Faixa instance = new Faixa();
         CorFaixa expResult = null;
         CorFaixa result = instance.getCor();
-        assertEquals(expResult, "azul");
+        assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
